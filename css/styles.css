@@ -16,3 +16,10 @@ h1,h3 {
 p {
     color: #3C84AB;
 }
+/* Classes */
+.circular {
+    border-radius: 30%;
+}
+.cert {
+    font-size: medium;
+}
