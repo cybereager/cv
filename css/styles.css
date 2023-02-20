@@ -1,5 +1,6 @@
 body {
     background-color: #EAF6F6;
+    font-family: poppins;
 }
 hr {
     background-color: white;
@@ -10,6 +11,7 @@ hr {
 }
 h1,h3 {
     color: #66BFBF;
+    font-family: poppins;
 }
 p {
     color: #3C84AB;
