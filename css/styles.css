@@ -3,11 +3,9 @@ body {
     font-family: poppins;
 }
 hr {
-    background-color: white;
-    border-style: none;
-    border-top-style: dotted;
-    border-width: 10px;
-    width: 100px;
+    color: white;
+    height: 5px;
+
 }
 h1,h3 {
     color: #66BFBF;
