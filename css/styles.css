@@ -3,7 +3,10 @@ body {
     font-family: poppins;
 }
 hr {
-    color: white;
+    border-style: none;
+    border-top-style: none;
+    color: black;
+    background-color: white;
     height: 5px;
 
 }
